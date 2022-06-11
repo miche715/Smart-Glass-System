@@ -1,4 +1,4 @@
-# Smart_Glass
+# Smart Glass System
 
 2022년 1학기 컴퓨터공학부 캡스톤 디자인 공모전
 
